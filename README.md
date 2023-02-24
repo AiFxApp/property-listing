@@ -2,7 +2,7 @@
   
 ## Civanoglu - Property Listing (Laravel Project)
 
-> Technology Used : Laravel-8, Tailwind CSS, JavaScript, jQuery and MySQL Database
+> Technology Used : Laravel-8 (Upgraded to Laravel 9 by AIFX), Tailwind CSS, JavaScript, jQuery and MySQL Database
 </div>
 
 ## What I have done
